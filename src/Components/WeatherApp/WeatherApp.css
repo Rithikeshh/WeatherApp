@@ -133,10 +133,10 @@ background: linear-gradient(0deg, rgba(52,84,143,1) 0%, rgba(7,30,97,1) 100%);
         font-size: 20px;
     }
     .top-bar input{
-        height: 36px;
+        height: 44px;
     }
     .search-icon{
-        height: 36px;
+        height: 44px;
     }
     .not-found{
         font-size: 20px;
